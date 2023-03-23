@@ -1,2 +1,3 @@
-Online cinema demo website
-Using technologies: HTML, CSS, CSS Flexbox, GRID Layout, Javasript
+KinoMonster
+Online cinema demo website.
+Technologies used: HTML, CSS, CSS Flexbox, GRID Layout, Javasript
